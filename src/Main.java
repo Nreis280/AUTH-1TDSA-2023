@@ -85,7 +85,7 @@ public class Main {
                              LocalDate.of(2010,6,16), "12.123.123/0001-03");
 
         User nicolas13 = novoUsuario
-                        (123456L, "nicolaszin@gmail.com",
+                        (123456L, "nicolazin@gmail.com",
                             "nicolas123",nicolas);
         Profile barmen = novoProfile(99191L,"Barmen do Barni");
 
